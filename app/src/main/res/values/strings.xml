@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Buff</string>
+    <string name="overview">OVERVIEW:-</string>
+    <string name="reviews">REVIEWS:-</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="no_reviews_present">No Reviews Present!!</string>
+    <string name="username">Username - </string>
+    <string name="no_user_present">No User Present</string>
+</resources>
