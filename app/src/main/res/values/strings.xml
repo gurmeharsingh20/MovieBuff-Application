@@ -7,4 +7,9 @@
     <string name="no_reviews_present">No Reviews Present!!</string>
     <string name="username">Username - </string>
     <string name="no_user_present">No User Present</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="now_playing_movies">Now Playing Movies</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
 </resources>
